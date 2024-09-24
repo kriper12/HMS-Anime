@@ -1,3 +1,7 @@
 .logo {
     margin: 0px 0px 0px 20px; /* top, right, bottom, left */
 }
+
+.a {
+font-family: "Lucida Console", "Courier New", monospace;
+}
